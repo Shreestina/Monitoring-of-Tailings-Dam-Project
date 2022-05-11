@@ -1,0 +1,6 @@
+,Node_id,Gateway_ID,Model,Piezometer_Channel,Piezometer_ID,Installation_Date,Timezone,Status,Latitud,Longitud,Tip Elevation,Maxpressure,Minimumpressure,Date_last_reading,Latest_pressure
+0,38,21545,LS-G6-VW-5-FCC,5,VW38,5/05/2018,Africa/Windhoek,Bad function from 26-03-2021,-22.45374327,15.02020495,605,-10.97,-22.03,20/03/2021,-21.8
+1,39,21545,LS-G6-VW-5-FCC,4,VW39,5/05/2018,Africa/Windhoek,Bad function from 26-03-2021,-22.45374327,15.02020495,603,23.83,10.31,20/03/2021,18.74
+2,40,21545,LS-G6-VW-5-FCC,3,VW40,5/05/2018,Africa/Windhoek,Bad function from 26-03-2021,-22.45374327,15.02020495,602,-10.62,-20.32,20/03/2021,-20.73
+3,41,21545,LS-G6-VW-5-FCC,2,VW41,5/05/2018,Africa/Windhoek,Bad function from 26-03-2021,-22.45374327,15.02020495,600,-1.77,-16.72,20/03/2021,-5.32
+4,42,21545,LS-G6-VW-5-FCC,1,VW42,5/05/2018,Africa/Windhoek,Bad function from 26-03-2021,-22.45374327,15.02020495,599,16.6,0.95,20/03/2021,12.66
